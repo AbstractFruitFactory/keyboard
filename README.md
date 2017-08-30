@@ -16,7 +16,7 @@ Here is a list of all the parts that I had to buy:
 
 ## PCB
 
-The Programmable Circuit Board is where the controller and all the circuits are, basically the logic of the board. There are many different PCB's to choose from, each for a different price and with different features. I went with the Satan GH60, which is a popular PCB for 60% boards. It has support for single-color backlighting, RGB underglow and is fully programmable. This means that you can program each button press in the board to do pretty much whatever you want. This is also a big advantage of building your own keyboard, since most ready-made keyboards will not give you this amount of programmability. 
+The Programmable Circuit Board is where the controller and all the circuits are; it's the logic of the board. There are many different PCB's to choose from, each for a different price and with different features. I went with the Satan GH60, which is a popular PCB for 60% boards. It has support for single-color backlighting, RGB underglow and is fully programmable. This means that you can program each button press in the board to do pretty much whatever you want. This is also a big advantage of building your own keyboard, since most ready-made keyboards will not give you this amount of programmability. 
 
 ## Key switches
 
